@@ -33,9 +33,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15ddb41bf72d53a48a6bdc593d706f94, type: 3}
   m_Name: Ads Settings
   m_EditorClassIdentifier: 
-  bannerType: 1
-  interstitialType: 1
-  rewardedVideoType: 1
+  bannerType: 3
+  interstitialType: 3
+  rewardedVideoType: 3
   loadAdsOnStart: 1
   interstitialFirstStartDelay: 40
   interstitialStartDelay: 40
@@ -65,8 +65,8 @@ MonoBehaviour:
     bannerType: 0
     bannerPosition: 0
   unityAdsContainer:
-    androidAppID: 5717128
-    iOSAppID: 5717129
+    androidAppID: 5952452
+    iOSAppID: 5952452
     androidBannerID: Banner_Android
     iOSBannerID: Banner_iOS
     androidInterstitialID: Interstitial_Android
@@ -97,6 +97,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f28faf74e3de2b4bb5f8724582e5ceb, type: 3}
   m_Name: IAP Settings
   m_EditorClassIdentifier: 
+  useFakeStore: 0
+  fakeStoreMode: 0
   storeItems:
   - androidID: com.example.game.noads
     iOSID: com.example.game.noads
