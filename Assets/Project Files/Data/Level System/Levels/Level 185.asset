@@ -470,22 +470,22 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
-        Effect: 0
+        Effect: 3
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
         Effect: 0
     - cells:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 2
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
-        Effect: 0
+        Effect: 2
       - IsFilled: 1
         Effect: 0
     - cells:
@@ -537,4 +537,7 @@ MonoBehaviour:
   useInRandomizer: 1
   elementsPerLevel: 13
   coinsReward: 20
-  editorNote: ' sets: 29'
+  editorNote: ' sets: 29,effects: crate, ice, link'
+  timer:
+    enabled: 0
+    value: 60

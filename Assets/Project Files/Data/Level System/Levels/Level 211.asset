@@ -18,7 +18,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -30,7 +30,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
         Effect: 0
       - IsFilled: 0
@@ -165,7 +165,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -177,7 +177,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 0
@@ -231,7 +231,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -243,7 +243,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 0
@@ -415,7 +415,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -427,7 +427,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 0
@@ -485,7 +485,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -495,91 +495,7 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-    - cells:
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-    - cells:
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-    - cells:
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-    - cells:
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
-      - IsFilled: 0
-        Effect: 0
-      - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
         Effect: 0
       - IsFilled: 0
@@ -666,6 +582,90 @@ MonoBehaviour:
         Effect: 0
       - IsFilled: 1
         Effect: 0
+      - IsFilled: 0
+        Effect: 0
+    - cells:
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+    - cells:
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 1
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 1
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+    - cells:
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+    - cells:
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 1
+        Effect: 0
+      - IsFilled: 1
+        Effect: 4
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 1
+        Effect: 0
+      - IsFilled: 1
+        Effect: 0
+      - IsFilled: 0
+        Effect: 0
+      - IsFilled: 1
+        Effect: 0
+      - IsFilled: 1
+        Effect: 4
       - IsFilled: 0
         Effect: 0
     - cells:
@@ -694,7 +694,7 @@ MonoBehaviour:
   useInRandomizer: 1
   elementsPerLevel: 8
   coinsReward: 20
-  editorNote: ' sets: 22'
+  editorNote: ' sets: 22,effects: link'
   timer:
     enabled: 0
     value: 60

@@ -1020,7 +1020,7 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
@@ -1028,7 +1028,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 0
         Effect: 0
     - cells:
@@ -1050,7 +1050,7 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
@@ -1058,7 +1058,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 0
         Effect: 0
     - cells:
@@ -1233,4 +1233,7 @@ MonoBehaviour:
   useInRandomizer: 1
   elementsPerLevel: 10
   coinsReward: 20
-  editorNote: ' sets: 49'
+  editorNote: ' sets: 49,effects: unknown'
+  timer:
+    enabled: 0
+    value: 60

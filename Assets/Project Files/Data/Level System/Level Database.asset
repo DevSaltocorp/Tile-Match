@@ -303,22 +303,22 @@ MonoBehaviour:
   - {fileID: 6289686921209105323, guid: 27b92b391fe531e4eadcc21dd41fe9e5, type: 3}
   - {fileID: 8393393293438007501, guid: 5c16d57e9a7ada143aaec6b2de55972b, type: 3}
   backgroundData:
-  - backgroundPrefab: {fileID: 6236222446239046324, guid: 269583515b66225488c4ef570119a472,
+  - backgroundPrefab: {fileID: 974715726325043866, guid: 7ec0e18b13441c64c87a102d109b6844,
       type: 3}
     availableFromLevel: 0
     collectionId: 0
-  - backgroundPrefab: {fileID: 6236222446239046324, guid: 08298627415c7904f8d0f8d84998f60d,
+  - backgroundPrefab: {fileID: 974715726325043866, guid: 7ec0e18b13441c64c87a102d109b6844,
       type: 3}
     availableFromLevel: 10
     collectionId: 0
-  - backgroundPrefab: {fileID: 6236222446239046324, guid: ee94d214c118d0d499b54243249a0f89,
+  - backgroundPrefab: {fileID: 3909729789560797938, guid: 78dd9ecd8e7cac74ab164a95d236ac52,
       type: 3}
     availableFromLevel: 20
     collectionId: 0
-  - backgroundPrefab: {fileID: 6236222446239046324, guid: 98c56daa67bd1744ba9e0782ca8c5318,
+  - backgroundPrefab: {fileID: 2039801077943385296, guid: b46c220d7aa075e4396fb28666d2212c,
       type: 3}
     availableFromLevel: 30
-    collectionId: 1
+    collectionId: 0
   selectedColor: {r: 0.20392157, g: 1, b: 0, a: 1}
   unselectedColor: {r: 1, g: 1, b: 1, a: 0}
   tintColor: {r: 0, g: 0, b: 0, a: 0.101960786}

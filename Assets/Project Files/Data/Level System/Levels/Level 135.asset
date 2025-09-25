@@ -858,7 +858,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 0
         Effect: 0
       - IsFilled: 0
@@ -868,7 +868,7 @@ MonoBehaviour:
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
     - cells:
       - IsFilled: 1
         Effect: 0
@@ -931,7 +931,7 @@ MonoBehaviour:
         Effect: 0
     - cells:
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 1
         Effect: 0
       - IsFilled: 0
@@ -941,7 +941,7 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 1
       - IsFilled: 1
         Effect: 0
     - cells:
@@ -1000,13 +1000,13 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 2
       - IsFilled: 0
         Effect: 0
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 2
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -1068,13 +1068,13 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 2
       - IsFilled: 0
         Effect: 0
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 2
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
@@ -1118,4 +1118,7 @@ MonoBehaviour:
   useInRandomizer: 1
   elementsPerLevel: 7
   coinsReward: 20
-  editorNote: ' sets: 34'
+  editorNote: ' sets: 34,effects: unknown, crate'
+  timer:
+    enabled: 0
+    value: 60

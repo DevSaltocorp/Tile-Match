@@ -310,11 +310,11 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 3
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
         Effect: 0
       - IsFilled: 0
@@ -378,11 +378,11 @@ MonoBehaviour:
       - IsFilled: 0
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 3
       - IsFilled: 1
         Effect: 0
       - IsFilled: 1
-        Effect: 0
+        Effect: 4
       - IsFilled: 1
         Effect: 0
       - IsFilled: 0
@@ -684,4 +684,7 @@ MonoBehaviour:
   useInRandomizer: 1
   elementsPerLevel: 12
   coinsReward: 20
-  editorNote: ' sets: 26'
+  editorNote: ' sets: 26,effects: ice, link'
+  timer:
+    enabled: 0
+    value: 60
