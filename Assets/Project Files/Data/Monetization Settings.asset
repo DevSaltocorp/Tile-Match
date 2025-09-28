@@ -64,8 +64,8 @@ MonoBehaviour:
     bannerType: 0
     bannerPosition: 0
   unityAdsContainer:
-    androidAppID: 5952452
-    iOSAppID: 5952452
+    androidAppID: 5955421
+    iOSAppID: 5955420
     androidBannerID: Banner_Android
     iOSBannerID: Banner_iOS
     androidInterstitialID: Interstitial_Android
